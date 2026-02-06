@@ -94,7 +94,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
 The project includes a `docker-compose.yml` file for easy PostgreSQL setup.
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 This will start a PostgreSQL container with the following configuration:
